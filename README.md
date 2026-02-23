@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C;Interfaces+performáticas%2C+acessíveis+e+animadas;UX+com+intenção%2C+motion+com+propósito" />
 </p>
 
----
-
 ## 💜 Sobre mim
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
