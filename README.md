@@ -1,31 +1,58 @@
-## Hi there 👋
-Me chamo Maria Eduarda, tenho 21 anos e atualmente sou proana pela instituição do Senac Lapa Tito
+<!-- ================= HERO / BANNER ================= -->
 
-Sobre minhas esxperiências profissionais:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C;Interfaces+performáticas%2C+acessíveis+e+animadas;UX+com+intenção%2C+motion+com+propósito" />
+</p>
 
-* Exerci a função de representante de CX C2C - Área de atendimento ao cliente em Distribuição.- Mercado Livre Melicidade
+---
 
-* Atuei na área de logística fulfilment (FPP) retiros, com bonificações de pacotes, atualizações diárias de planilhas, envios semanais de e-mails e alinhamento em equipe. Fui representante de atendimento ao cliente em Distribuição (C2C) 
+## 💜 Sobre mim
 
-* Algumas das ferramentas utilizadas foram: 
+<img align="right" width="340" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
-Google Sheets | Google Slides | Documentos Google | E-mail.
+Oi! Eu sou a **Maria Eduarda**, **Frontend Developer** com foco em **experiência do usuário**.
 
-Outros conhecimentos: Figma, Canva, Capcut, Pinterest, HTML e CSS.
+Estudante de TI na PROA | 22 anos
+Aprendendo Front-end e Design 🎨💻
+HTML & CSS | Em constante evolução no mundo da tecnologia
 
 
-📩 mariaecs.contato@gmail.com
-<!--
-**dudacstech/dudacstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**O que me move no frontend:**
 
-Here are some ideas to get you started:
+* 🎨 **UX/UI orientado a usabilidade e conversão**
+* 🚀 **Performance, SEO e boas práticas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Frontend é onde código encontra experiência.*
+
+## ⚛️ Stack Principal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,figma" />
+</div>
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dudacstech&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+<a href="mariaecs.contato@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/maria-e-131954217?">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+✨ <strong>Código com intenção. Interface com propósito.</strong> ✨
+</div>
